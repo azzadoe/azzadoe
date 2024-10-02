@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bazaman.com</h1>
+<h1 align="center">Hi 👋, I'm Pediaku ID</h1>
 <h3 align="center">Sebuah website yang membahas tentang blogger, teknologi dan berbagi template</h3>
 
 <p align="left"> <a href="https://twitter.com/bazamanid" target="blank"><img src="https://img.shields.io/twitter/follow/bazamanid?logo=twitter&style=for-the-badge" alt="bazamanid" /></a> </p>
 
-- 🔭 I’m currently working on [Bazaman](https://www.bazaman.com)
+- 🔭 I’m currently working on [Bazaman](https://www.pediaku.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
